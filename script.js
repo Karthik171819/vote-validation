@@ -1,4 +1,4 @@
-function vot()
+function vote()
 {
     var name=document.getElementById("name").value;
     var age=document.getElementById("age").value;
@@ -9,4 +9,5 @@ function vot()
             alert("not eligible to vote");
         }
         
+
 }
